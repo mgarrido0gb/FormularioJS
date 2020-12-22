@@ -9,7 +9,7 @@ class Product {
 }
 
 
-//interactuamos con el HTML
+//interactuamos con el HTML ...
 class UI {
     addProduct(product){
        const productList = document.getElementById('product-list');
